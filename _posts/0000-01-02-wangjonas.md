@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+sleep is for the weak
 Use the left arrow to go back!
